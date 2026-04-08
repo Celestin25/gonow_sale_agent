@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Documents
+GoNow_Sales_AI_Agent_Proposal.pdf
